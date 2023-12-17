@@ -1,0 +1,30 @@
+O O O O O O O O B-entity_type O
+O O O O O O O O B-entity_type O
+O O O O O B-entity_type O O O O O
+O O O O O O O O O O O B-entity_type I-entity_type
+O O O O O B-entity_type O O O B-time_frame I-time_frame
+O O O O O O O O O O B-time_frame I-time_frame
+O O O O O O O B-time_frame I-time_frame
+O O O O O O O B-entity_type I-entity_type O O O O O O B-time_frame I-time_frame O O O
+O O O O O O O B-entity_type I-entity_type O O O O O O B-time_frame I-time_frame I-time_frame O O O
+O O O O O O O B-entity_type I-entity_type O O B-time_frame I-time_frame I-time_frame
+O O B-time_frame I-time_frame I-time_frame I-time_frame I-time_frame O O O O B-entity_type I-entity_type
+O O B-entity_type O O O O O O O
+O B-entity_type O O O O O O O O
+O O O O O O O O B-entity_type I-entity_type
+O O B-entity_type O O O O O O O
+O O O B-entity_type O O O O O
+O O B-entity_type O O O
+O O B-entity_type O O O O O
+O O B-entity_type O O O O O
+O O B-count_what O O
+O O B-count_what I-count_what O O O O B-entity_type I-entity_type
+O O B-count_what I-count_what O O O O B-entity_type I-entity_type
+O O O B-count_what I-count_what O B-entity_type I-entity_type I-entity_type
+O O B-count_what O O O B-entity_type I-entity_type
+O B-entity_type O O O O O O O O O
+O B-entity_type I-entity_type I-entity_type O O O O O
+O B-entity_type O O O O O O
+O B-entity_type O O
+O B-entity_type O O O O O O
+O B-list_what O O O B-entity_type I-entity_type

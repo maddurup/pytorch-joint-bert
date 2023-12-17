@@ -1,0 +1,6 @@
+query    time_series    categorize    fact_count    fact_list
+Are my devices experiencing consistently high or low CPU utilization?    1    0    0    0
+How many network packets are being sent by my devices?    0    0    1    0
+How many devices are there in my network?    0    0    1    0
+which os are there in my network?    0    0    0    1
+

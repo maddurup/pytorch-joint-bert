@@ -1,0 +1,31 @@
+Text,label
+Are my devices experiencing consistently high or low CPU utilization?,time_series
+Are my devices experiencing consistently high or low Memory utilization?,time_series
+Are there patterns of increased CPU usage during specific time periods?,time_series
+Are there specific times of the day that experience spikes in network traffic?,time_series
+Are there any drops in network over the last x months?,time_series
+When were peak drops (errors or discards) over the last x months?,time_series
+What was the bandwidth utilization during the peak drops?,time_series
+Can you provide the timeline where the network utilization has peak usage in the last x months categorized by HWSKU?,time_series
+Can you provide the timeline where the network errors were at the peak in the last x months categorized by HWSKU?,time_series
+Which HWSKU is contributing to the maximum network utilization over the last x months?,time_series
+Are there specific times of the day that experience spikes in network traffic?,time_series
+Are there devices generating a significantly high number of packits?,time_series
+Which device is generating a significantly high number of packets?,time_series
+How many network packets are being sent by my devices?,fact_count
+Are there devices generating a significantly high number of packets?,fact_count
+How many network devices are there in my deployment?,fact_count
+How many os versions are there?,fact_count
+How many HWSKUs are there in the network?,fact_count
+How many devices are there in my deployment?,fact_count
+How many regions are there?,fact_count
+How many network packets are being sent by my devices?,fact_count
+How many network packets are being sent by my device?,fact_count
+What is the overall capacity of my network fabric?,fact_count
+How many roles are there in my network?,fact_count
+Which devices are receiving or transmitting unusually large amounts of data?,fact_list
+Which HWSKU & NOS had major discards or errors?,fact_list
+Which os versions are there in my network?,fact_list
+which HWSKUs are there?,fact_list
+which os versions are there in the region?,fact_list
+Which roles are there in my network?,fact_list
